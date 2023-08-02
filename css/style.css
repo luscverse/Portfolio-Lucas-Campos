@@ -74,7 +74,7 @@ a:hover, a:focus {
 	transition: background-color, color, 0.3s;
 }
 body {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Gill Sans", sans-serif;
 	font-weight: 400;
 	color: #fff;
 	text-align:justify;
@@ -312,7 +312,7 @@ ul li:hover {
 
 	color: #00CED1;
 	font: 36px;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Gill Sans", sans-serif;
 	font-weight: 300;
 }
 .banner p {
@@ -333,7 +333,7 @@ ul li:hover {
 	text-align: center;
 }
 .footer p {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Gill Sans", sans-serif;
 	font-size: 12px;
 	color: #000;
 	text-transform: uppercase;
@@ -454,13 +454,13 @@ line-height:27px;
 /*--------------- SERVICES-------------------*/
 
 .services {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Gill Sans", sans-serif;
 	font-weight: 400;
 }
 
 .services {
 	color: #00CED1;
-	font: 36px Verdana;
+	font: 36px "Gill Sans", sans-serif;
 	font-weight: 300;
 }
 
