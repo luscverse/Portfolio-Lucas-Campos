@@ -318,7 +318,8 @@ ul li:hover {
 .banner h1 {
 
 	color: #00CED1;
-	font: 36px "Open Sans";
+	font: 36px;
+	font-family: "Open Sans";
 	font-weight: 300;
 }
 .banner p {
