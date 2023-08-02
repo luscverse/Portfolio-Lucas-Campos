@@ -518,6 +518,8 @@ line-height:27px;
 
   .services h2 {
 	font-weight: 800;
+	font-size: 40px;
+	color: #2d3033;
   }
 
   /*--------------- WORKS -------------------*/
@@ -525,6 +527,8 @@ line-height:27px;
   .ftco-section h2 {
 	font-weight: 800;
 	margin-bottom: 15px;
+	font-size: 40px;
+	color: #2d3033;
   }
 
   .ftco-section p {
