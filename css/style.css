@@ -649,3 +649,6 @@ line-height:27px;
 	.work:hover .img .icon {
 	  opacity: 1; }
   
+img {
+	border-radius: 300px;
+}
